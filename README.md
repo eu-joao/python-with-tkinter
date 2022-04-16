@@ -73,12 +73,12 @@ $ pip install -r requeriments.txt
     <tr>
     <td>
         <h3 align="center">Calculadora</h3>
-        <img src="GIFS\Calculadora.gif" width="500px"></a>
+        <img src="GIFS\Calculadora.gif" width="250px"></a>
     </td>
         <td>
         <h3 align="center">Gerador de Senha</h3>
         <img src="GIFS\Gerador de Senha.gif" 
-        width="500px"></a>
+        width="250px"></a>
     </td>
     </tr>
     <tr>
