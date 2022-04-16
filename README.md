@@ -7,7 +7,7 @@
  <a href="https://github.com/vilelas/python-with-tkinter#-objetivo">Objetivo</a> •
  <a href="https://github.com/vilelas/python-with-tkinter#-tecnologias-utilizadas">Tecnologias utilizadas</a> • 
  <a href="https://github.com/vilelas/python-with-tkinter#-pr%C3%A9-requisitos">Pré-requisitos</a> • 
- <a href="https://github.com/vilelas/python-with-tkinter#-demonstra%C3%A7%C3%A3o-das-aplica%C3%A7%C3%B5es">Demonstração das aplicações</a> • 
+ <a href="https://github.com/vilelas/python-with-tkinter#-demonstra%C3%A7%C3%A3o-das-aplica%C3%A7%C3%B5es">Conteúdo do repositório</a> • 
  <a href="https://github.com/vilelas/python-with-tkinter#-autor">Autor</a>
 </p>
 
@@ -34,67 +34,21 @@ $ git clone https://github.com/vilelas/python-with-tkinter
 $ pip install -r requeriments.txt
 ```
 
-# 👉 Demonstração das aplicações
+# 👉 Conteúdo do repositório
 
-<table border="2">
-    <tr>
-    <td>
-        <h3 align="center">PyColor</h3>
-        <img src="GIFS\PyColor.gif" width="800px"></a>
-    </td>
-        <td>
-        <h3 align="center">Tela de login</h3>
-        <img src="GIFS\Tela de Login.gif" 
-        width="800px"></a>
-    </td>
-    </tr>
-    <tr>
-    <td>
-        <h3 align="center">Calculadora de Datas</h3>
-        <img src="GIFS\Diferença entre datas.gif" width="800px"></a>
-    </td>
-        <td>
-        <h3 align="center">Roll Dice</h3>
-        <img src="GIFS\Roll Dice.gif" 
-        width="800px"></a>
-    </td>
-    </tr>
-    <tr>
-    <td>
-        <h3 align="center">PC Tools</h3>
-        <img src="GIFS\PC Tools.PNG" width="800px"></a>
-    </td>
-        <td>
-        <h3 align="center">YT Downloader</h3>
-        <img src="GIFS\YT Downloader.gif" 
-        width="800px"></a>
-    </td>
-    </tr>
-    <tr>
-    <td>
-        <h3 align="center">Calculadora</h3>
-        <img src="GIFS\Calculadora.gif" width="250px"></a>
-    </td>
-        <td>
-        <h3 align="center">Gerador de Senha</h3>
-        <img src="GIFS\Gerador de Senha.gif" 
-        width="250px"></a>
-    </td>
-    </tr>
-    <tr>
-    <td>
-        <h3 align="center">Calculadora de IMC</h3>
-        <img src="GIFS\Calculadora de IMC.gif" width="800px"></a>
-    </td>
-        <td>
-        <h3 align="center">Folder Organizer</h3>
-        <img src="GIFS\Folder Organizer.PNG" 
-        width="800px"></a>
-    </td>
-    </tr>
-    </td>
-    </tr>
-</table>
+#           | Descrição         | Demonstração
+:---------: | :------:          | :--------:
+1           | Aplicação que imita o funcionamento de um seletor de cores              | [PyColor.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/PyColor.gif)       
+2           | Aplicação que permite fazer download de  vídeos, playlists do youtube e conversão para áudio              | [YT Donwloader.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/YT%20Downloader.gif)  
+3           | Obtenha a diferença em dias, meses e anos entre duas datas distintas               | [Calculadora de datas.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/Diferen%C3%A7a%20entre%20datas.gif)  
+4           | Calculadora que mostra o IMC dividindo o peso (em kg) pela altura ao quadrado (em metros).                | [Calculadora de IMC.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/Calculadora%20de%20IMC.gif)  
+5           | Calculadora simples que faz as 4 operações básicas e mostra a raiz quadrada  de um número              | [Calculadora.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/Calculadora.gif)  
+6           | Aplicação que organiza arquivos de acordo com sua extensão                | [Folder Organizer.png](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/Folder%20Organizer.PNG)  
+7           | Clone da tela de login do [GUJ](https://www.guj.com.br/)                | [Tela de login.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/Tela%20de%20Login.gif)  
+8           | Gere senhas com facilidade misturando letras, números e caracteres especiais                | [Gerador de senha.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/Gerador%20de%20Senha.gif)  
+9           | Simulador de lançamento de dados                | [Roll dice.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/Roll%20Dice.gif)  
+10          | Aplicação que reúne atalhos úteis dentro do Windows                | [PC Tools.png](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/PC%20Tools.PNG)  
+
 
 # 👉 Autor
 
