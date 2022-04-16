@@ -4,11 +4,11 @@
 <p align="center">🚀 Nesse repositório você irá encontrar alguns simples/pequenos projetos utilizando a GUI Tkinter</p>
 
 <p align="center">
- <a href="https://github.com/vilelas/projetos-com-tkinter#-objetivo">Objetivo</a> •
- <a href="https://github.com/vilelas/projetos-com-tkinter#-tecnologias-utilizadas">Tecnologias utilizadas</a> • 
- <a href="https://github.com/vilelas/projetos-com-tkinter#-pr%C3%A9-requisitos">Pré-requisitos</a> • 
- <a href="https://github.com/vilelas/projetos-com-tkinter#-demonstra%C3%A7%C3%A3o-das-aplica%C3%A7%C3%B5es">Demonstração das aplicações</a> • 
- <a href="https://github.com/vilelas/projetos-com-tkinter#-autor">Autor</a>
+ <a href="https://github.com/vilelas/python-with-tkinter#-objetivo">Objetivo</a> •
+ <a href="https://github.com/vilelas/python-with-tkinter#-tecnologias-utilizadas">Tecnologias utilizadas</a> • 
+ <a href="https://github.com/vilelas/python-with-tkinterr#-pr%C3%A9-requisitos">Pré-requisitos</a> • 
+ <a href="https://github.com/vilelas/python-with-tkinter#-demonstra%C3%A7%C3%A3o-das-aplica%C3%A7%C3%B5es">Demonstração das aplicações</a> • 
+ <a href="https://github.com/vilelas/python-with-tkinter#-autor">Autor</a>
 </p>
 
 ## 👉 Objetivo
