@@ -38,7 +38,7 @@ $ pip install -r requeriments.txt
 
 #ㅤ          | DESCRIÇÃO         | DEMONSTRAÇÃO
 :---------: | :------:          | :--------:
-1           | Aplicação que imita o funcionamento de um seletor de cores              | [PyColor.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/PyColor.gif)       
+1           | Seletor de cores               | [PyColor.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/PyColor.gif)       
 2           | Aplicação que permite fazer download de  vídeos, playlists do youtube e conversão para áudio              | [YT Donwloader.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/YT%20Downloader.gif)  
 3           | Obtenha a diferença em dias, meses e anos entre duas datas                | [Calculadora de datas.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/Diferen%C3%A7a%20entre%20datas.gif)  
 4           | Calculadora que mostra o IMC, dividindo o peso (em kg) pela altura ao quadrado (em metros).                | [Calculadora de IMC.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/Calculadora%20de%20IMC.gif)  
