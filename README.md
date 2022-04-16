@@ -30,7 +30,7 @@ Antes de começar, você vai precisar ter instalado o [Git](https://git-scm.com)
 # Faça um clone deste repositório
 $ git clone https://github.com/vilelas/python-with-tkinter
 
-# Depois, no seu terminal/cmd digite:
+# Instale os pacotes necessários, no seu terminal/cmd digite:
 $ pip install -r requeriments.txt
 ```
 
