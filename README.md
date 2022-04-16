@@ -44,7 +44,7 @@ $ pip install -r requeriments.txt
 4           | Calculadora que mostra o IMC, dividindo o peso (em kg) pela altura ao quadrado (em metros).                | [Calculadora de IMC.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/Calculadora%20de%20IMC.gif)  
 5           | Calculadora simples que faz as 4 operações básicas e mostra a raiz quadrada  de um número              | [Calculadora.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/Calculadora.gif)  
 6           | Aplicação que organiza arquivos de acordo com sua extensão                | [Folder Organizer.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/Folder%20Organizer.gif)  
-7           | Clone da tela de login do [GUJ](https://www.guj.com.br/)                | [Tela de login.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/Tela%20de%20Login.gif)  
+7           | "Clone" da tela de login do [GUJ](https://www.guj.com.br/)                | [Tela de login.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/Tela%20de%20Login.gif)  
 8           | Gere senhas com facilidade misturando letras, números e caracteres especiais                | [Gerador de senha.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/Gerador%20de%20Senha.gif)  
 9           | Simulador de lançamento de dados                | [Roll dice.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/Roll%20Dice.gif)  
 10          | Aplicação que reúne atalhos úteis dentro do Windows                | [PC Tools.png](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/PC%20Tools.PNG)  
