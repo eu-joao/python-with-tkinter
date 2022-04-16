@@ -36,12 +36,12 @@ $ pip install -r requeriments.txt
 
 # 👉 Conteúdo do repositório
 
-#ㅤ           | Descrição         | Demonstração
+#ㅤ          | Descrição         | Demonstração
 :---------: | :------:          | :--------:
 1           | Aplicação que imita o funcionamento de um seletor de cores              | [PyColor.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/PyColor.gif)       
 2           | Aplicação que permite fazer download de  vídeos, playlists do youtube e conversão para áudio              | [YT Donwloader.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/YT%20Downloader.gif)  
 3           | Obtenha a diferença em dias, meses e anos entre duas datas distintas               | [Calculadora de datas.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/Diferen%C3%A7a%20entre%20datas.gif)  
-4           | Calculadora que mostra o IMC dividindo o peso (em kg) pela altura ao quadrado (em metros).                | [Calculadora de IMC.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/Calculadora%20de%20IMC.gif)  
+4           | Calculadora que mostra o IMC, dividindo o peso (em kg) pela altura ao quadrado (em metros).                | [Calculadora de IMC.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/Calculadora%20de%20IMC.gif)  
 5           | Calculadora simples que faz as 4 operações básicas e mostra a raiz quadrada  de um número              | [Calculadora.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/Calculadora.gif)  
 6           | Aplicação que organiza arquivos de acordo com sua extensão                | [Folder Organizer.png](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/Folder%20Organizer.PNG)  
 7           | Clone da tela de login do [GUJ](https://www.guj.com.br/)                | [Tela de login.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/Tela%20de%20Login.gif)  
