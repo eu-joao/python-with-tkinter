@@ -39,7 +39,7 @@ $ pip install -r requeriments.txt
 <div align="center">
     <div>
         <h1>PyColor</h1>
-        <img src="GIFS\PyColor.gif" width="500px"</a>
+        <img src="GIFS\PyColor.gif"</a>
     </div>
     <div>
         <h1>Calculadora de IMC</h1>
