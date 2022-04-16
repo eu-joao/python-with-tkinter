@@ -28,6 +28,7 @@ caminho = ''
 
 
 def selecionar_pasta():
+    global caminho
     caminho = filedialog.askdirectory()
     msg2.configure(text=caminho, fg='green')
 
