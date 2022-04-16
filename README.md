@@ -36,7 +36,7 @@ $ pip install -r requeriments.txt
 
 # 👉 Conteúdo do repositório
 
-#           | Descrição         | Demonstração
+nº           | Descrição         | Demonstração
 :---------: | :------:          | :--------:
 1           | Aplicação que imita o funcionamento de um seletor de cores              | [PyColor.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/PyColor.gif)       
 2           | Aplicação que permite fazer download de  vídeos, playlists do youtube e conversão para áudio              | [YT Donwloader.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/YT%20Downloader.gif)  
