@@ -7,7 +7,7 @@
  <a href="https://github.com/vilelas/python-with-tkinter#-objetivo">Objetivo</a> •
  <a href="https://github.com/vilelas/python-with-tkinter#-tecnologias-utilizadas">Tecnologias utilizadas</a> • 
  <a href="https://github.com/vilelas/python-with-tkinter#-pr%C3%A9-requisitos">Pré-requisitos</a> • 
- <a href="https://github.com/vilelas/python-with-tkinter#-demonstra%C3%A7%C3%A3o-das-aplica%C3%A7%C3%B5es">Conteúdo do repositório</a> • 
+ <a href="https://github.com/vilelas/python-with-tkinter#-conte%C3%BAdo-do-reposit%C3%B3rio">Conteúdo do repositório</a> • 
  <a href="https://github.com/vilelas/python-with-tkinter#-autor">Autor</a>
 </p>
 
