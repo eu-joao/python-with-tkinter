@@ -30,7 +30,9 @@ caminho = ''
 def selecionar_pasta():
     global caminho
     caminho = filedialog.askdirectory()
-    msg2.configure(text=caminho, fg='green')
+    txt = f"Organizar: '{caminho.split('/')[-1]}'"
+
+    msg2.configure(text=txt, fg='green')
 
     if (len(caminho) == 0):
         messagebox.showerror('ERRO', 'Nenhuma pasta foi selecionada!')
