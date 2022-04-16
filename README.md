@@ -33,51 +33,24 @@ $ git clone https://github.com/vilelas/python-with-tkinter
 # Depois, no seu terminal/cmd digite:
 $ pip install -r requeriments.txt
 ```
+## 👉 Conteúdo do repositório
 
 ## 👉 Demonstração das aplicações
 
-<div align="center">
-    <div>
-        <h1>PyColor</h1>
-        <img src="GIFS\PyColor.gif"</a>
-    </div>
-    <div>
-        <h1>Calculadora de IMC</h1>
-        <img src="GIFS\Calculadora de IMC.gif"></a>
-    </div>
-    <div>
-        <h1>Calculadora</h1>
-        <img src="GIFS\Calculadora.gif"></a>
-    </div>
-    <div>
-        <h1>Calculadora de datas</h1>
-        <img src="GIFS\Diferença entre datas.gif"></a>
-    </div>
-    <div>
-        <h1>Folder Organizer</h1>
-        <img src="GIFS\Folder Organizer.PNG"></a>
-    </div>
-    <div>
-        <h1>PC Tools</h1>
-        <img src="GIFS\PC Tools.PNG"></a>
-    </div>
-    <div>
-        <h1>Gerador de Senhas</h1>
-        <img src="GIFS\Gerador de Senha.gif"></a>
-    </div>
-    <div>
-        <h1>Roll Dice</h1>
-        <img src="GIFS\Roll Dice.gif"></a>
-    </div>
-    <div>
-        <h1>Tela de Login</h1>
-        <img src="GIFS\Tela de Login.gif"></a>
-    </div>
-    <div>
-        <h1>YT Downloader</h1>
-        <img src="GIFS\YT Downloader.gif"></a>
-    </div>
-</div>
+<table border="2">
+<tr>
+<td>
+    <h3 align="center">PyColor</h3>
+    <img src="GIFS\PyColor.gif" width="800px"></a>
+</td>
+    <td>
+    <h3 align="center">Tela de login</h3>
+    <img src="GIFS\Tela de Login.gif" width="800px"></a>
+</td>
+</tr>
+</td>
+</tr>
+
 
 ## 👉 Autor
 
