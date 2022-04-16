@@ -11,18 +11,18 @@
  <a href="https://github.com/vilelas/python-with-tkinter#-autor">Autor</a>
 </p>
 
-# 👉 Objetivo
+## 👉 Objetivo
 
 Com o intuito de melhorar as minhas habilidades no python, foi criado este repositório para gerenciar alguns projetos desenvolvidos por mim ao longo do tempo.
 
-# 👉 Tecnologias utilizadas
+## 👉 Tecnologias utilizadas
 
 *   [Python 3+](https://www.python.org/)
 *   [Pytube](https://pytube.io/en/latest/)
 *   [tkcalendar](https://pypi.org/project/tkcalendar/)
 *   [dateutil](https://dateutil.readthedocs.io/en/stable/)
 
-# 👉 Pré-requisitos
+## 👉 Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado o [Git](https://git-scm.com) em sua máquina, além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
@@ -34,7 +34,7 @@ $ git clone https://github.com/vilelas/python-with-tkinter
 $ pip install -r requeriments.txt
 ```
 
-# 👉 Conteúdo do repositório
+## 👉 Conteúdo do repositório
 
 #ㅤ          | Descrição         | Demonstração
 :---------: | :------:          | :--------:
@@ -50,7 +50,7 @@ $ pip install -r requeriments.txt
 10          | Aplicação que reúne atalhos úteis dentro do Windows                | [PC Tools.png](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/PC%20Tools.PNG)  
 
 
-# 👉 Autor
+## 👉 Autor
 
 Feito com ❤️ por João V. V. Santos 👋🏽 Entre em contato!
 
