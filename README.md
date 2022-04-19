@@ -43,7 +43,7 @@ $ pip install -r requeriments.txt
 #ㅤ          | DESCRIÇÃO         | DEMONSTRAÇÃO
 :---------: | :------:          | :--------:
 1           | Descubra o código hex de cores de forma simples e rápida              | [PyColor.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/PyColor.gif)       
-2           | Aplicação que permite fazer download de  vídeos, playlists do youtube e conversão para áudio              | [YT Donwloader.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/YT%20Downloader.gif)  
+2           | Aplicação que permite fazer download de  vídeos e playlists do youtube além de permitir a conversão para áudio              | [YT Donwloader.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/YT%20Downloader.gif)  
 3           | Obtenha a diferença em dias, meses e anos entre duas datas                | [Calculadora de datas.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/Diferen%C3%A7a%20entre%20datas.gif)  
 4           | Calculadora que mostra o IMC, dividindo o peso (em kg) pela altura ao quadrado (em metros).                | [Calculadora de IMC.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/Calculadora%20de%20IMC.gif)  
 5           | Calculadora simples que faz as 4 operações básicas e mostra a raiz quadrada  de um número              | [Calculadora.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/Calculadora.gif)  
