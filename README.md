@@ -22,6 +22,10 @@ Com o intuito de melhorar as minhas habilidades no python, foi criado este repos
 *   [tkcalendar](https://pypi.org/project/tkcalendar/)
 *   [dateutil](https://dateutil.readthedocs.io/en/stable/)
 
+## 👉 Créditos
+
+O ícones utilizados foram retirados desse site: [icon-icons](https://icon-icons.com/pt/)
+
 ## 👉 Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado o [Git](https://git-scm.com) em sua máquina, além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
