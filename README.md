@@ -53,7 +53,6 @@ $ pip install -r requeriments.txt
 9           | Simulador de lançamento de dados                | [Roll dice.gif](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/Roll%20Dice.gif)  
 10          | Aplicação que reúne atalhos úteis dentro do Windows                | [PC Tools.png](https://github.com/vilelas/python-with-tkinter/blob/main/GIFS/PC%20Tools.PNG)  
 
-
 ## 👉 Autor
 
 Feito com ❤️ por João V. V. Santos 👋🏽 Entre em contato!
