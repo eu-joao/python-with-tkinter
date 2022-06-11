@@ -56,3 +56,4 @@ $ pip install -r requeriments.txt
 ## 👉 Autor
 
 Feito com ❤️ por João V. V. Santos 👋🏽 Entre em contato!
+
