@@ -21,7 +21,6 @@ Com o intuito de melhorar as minhas habilidades no python, foi criado este repos
 *   [Pytube](https://pytube.io/en/latest/)
 *   [tkcalendar](https://pypi.org/project/tkcalendar/)
 *   [dateutil](https://dateutil.readthedocs.io/en/stable/)
-*   [Python3+](https://www.python.org/downloads/)
 *   [python-dotenv](https://pypi.org/project/python-dotenv/)
 *   [mysql-connector](https://pypi.org/project/mysql-connector/)
 
