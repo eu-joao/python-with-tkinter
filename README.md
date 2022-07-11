@@ -42,7 +42,7 @@ $ pip install -r requeriments.txt
 
 ## 👉 Conteúdo do repositório
 
-#ㅤ          | DESCRIÇÃO         | DEMONSTRAÇÃO
+#ㅤ          | DESCRIÇÃO         | PRÉVIA
 :---------: | :------:          | :--------:
 1           | Descubra o código hex de cores de forma simples e rápida              | [PyColor.gif](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/PyColor.gif)       
 2           | Aplicação que permite fazer download de  vídeos e playlists do youtube além de permitir a conversão para áudio              | [YT Donwloader.gif](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/YT%20Downloader.gif)  
