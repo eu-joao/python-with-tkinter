@@ -21,6 +21,9 @@ Com o intuito de melhorar as minhas habilidades no python, foi criado este repos
 *   [Pytube](https://pytube.io/en/latest/)
 *   [tkcalendar](https://pypi.org/project/tkcalendar/)
 *   [dateutil](https://dateutil.readthedocs.io/en/stable/)
+*   [Python3+](https://www.python.org/downloads/)
+*   [python-dotenv](https://pypi.org/project/python-dotenv/)
+*   [mysql-connector](https://pypi.org/project/mysql-connector/)
 
 ## 👉 Créditos
 
@@ -52,6 +55,9 @@ $ pip install -r requeriments.txt
 8           | Gere senhas com facilidade misturando letras, números e caracteres especiais                | [Gerador de senha.gif](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/Gerador%20de%20Senha.gif)  
 9           | Simulador de lançamento de dados                | [Roll dice.gif](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/Roll%20Dice.gif)  
 10          | Aplicação que reúne atalhos úteis dentro do Windows                | [PC Tools.png](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/PC%20Tools.PNG)  
+11          | Agenda de contatos feita com Tkinter e MySQL               | [Agenda.png](https://user-images.githubusercontent.com/98621150/173163439-a5acea74-9c30-413b-9b7f-4ea75a0dd1aa.png) 
+
+
 
 ## 👉 Autor
 
