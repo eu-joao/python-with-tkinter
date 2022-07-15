@@ -56,9 +56,6 @@ $ pip install -r requeriments.txt
 10          | Aplicação que reúne atalhos úteis dentro do Windows                | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/PC%20Tools.PNG)  
 11          | Agenda de contatos feita com Tkinter e MySQL               | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/AGENDA.png) 
 
-
-
 ## 👉 Autor
 
 Feito com ❤️ por João V. V. Santos 👋🏽 Entre em contato!
-
