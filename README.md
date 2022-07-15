@@ -44,17 +44,17 @@ $ pip install -r requeriments.txt
 
 #ㅤ          | DESCRIÇÃO         | PRÉVIA
 :---------: | :------:          | :--------:
-1           | Descubra o código hex de cores de forma simples e rápida              | [PyColor.gif](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/PyColor.gif)       
-2           | Aplicação que permite fazer download de  vídeos e playlists do youtube além de permitir a conversão para áudio              | [YT Donwloader.gif](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/YT%20Downloader.gif)  
-3           | Obtenha a diferença em dias, meses e anos entre duas datas                | [Calculadora de datas.gif](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/Diferen%C3%A7a%20entre%20datas.gif)  
-4           | Calculadora que mostra o IMC, dividindo o peso (em kg) pela altura ao quadrado (em metros).                | [Calculadora de IMC.gif](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/Calculadora%20de%20IMC.gif)  
-5           | Calculadora simples que faz as 4 operações básicas e mostra a raiz quadrada  de um número              | [Calculadora.gif](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/Calculadora.gif)  
-6           | Aplicação que organiza arquivos de acordo com sua extensão                | [Folder Organizer.gif](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/Folder%20Organizer.gif)  
-7           | "Clone" da tela de login do [GUJ](https://www.guj.com.br/)                | [Tela de login.gif](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/Tela%20de%20Login.gif)  
-8           | Gere senhas com facilidade misturando letras, números e caracteres especiais                | [Gerador de senha.gif](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/Gerador%20de%20Senha.gif)  
-9           | Simulador de lançamento de dados                | [Roll dice.gif](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/Roll%20Dice.gif)  
-10          | Aplicação que reúne atalhos úteis dentro do Windows                | [PC Tools.png](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/PC%20Tools.PNG)  
-11          | Agenda de contatos feita com Tkinter e MySQL               | [Agenda.png](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/AGENDA.png) 
+1           | Descubra o código hex de cores de forma simples e rápida              | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/PyColor.gif)       
+2           | Aplicação que permite fazer download de  vídeos e playlists do youtube além de permitir a conversão para áudio              | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/YT%20Downloader.gif)  
+3           | Obtenha a diferença em dias, meses e anos entre duas datas                | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/Diferen%C3%A7a%20entre%20datas.gif)  
+4           | Calculadora que mostra o IMC, dividindo o peso (em kg) pela altura ao quadrado (em metros).                | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/Calculadora%20de%20IMC.gif)  
+5           | Calculadora simples que faz as 4 operações básicas e mostra a raiz quadrada  de um número              | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/Calculadora.gif)  
+6           | Aplicação que organiza arquivos de acordo com sua extensão                | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/Folder%20Organizer.gif)  
+7           | "Clone" da tela de login do [GUJ](https://www.guj.com.br/)                | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/Tela%20de%20Login.gif)  
+8           | Gere senhas com facilidade misturando letras, números e caracteres especiais                | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/Gerador%20de%20Senha.gif)  
+9           | Simulador de lançamento de dados                | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/Roll%20Dice.gif)  
+10          | Aplicação que reúne atalhos úteis dentro do Windows                | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/PC%20Tools.PNG)  
+11          | Agenda de contatos feita com Tkinter e MySQL               | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/AGENDA.png) 
 
 
 
