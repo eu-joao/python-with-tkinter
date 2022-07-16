@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://github.com/eu-joao/projetos-com-tkinter">Python & Tkinter</a>
+    <a href="https://github.com/eu-joao/python-tkinter">Python & Tkinter</a>
 </h1>
 <p align="center">🚀 Nesse repositório você irá encontrar alguns simples/pequenos projetos utilizando a GUI Tkinter</p>
 
