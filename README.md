@@ -3,14 +3,6 @@
 </h1>
 <p align="center">🚀 Nesse repositório você irá encontrar alguns simples/pequenos projetos utilizando a GUI Tkinter</p>
 
-<p align="center">
- <a href="https://github.com/eu-joao/python-with-tkinter#-objetivo">Objetivo</a> •
- <a href="https://github.com/eu-joao/python-with-tkinter#-tecnologias-utilizadas">Tecnologias utilizadas</a> • 
- <a href="https://github.com/eu-joao/python-with-tkinter#-pr%C3%A9-requisitos">Pré-requisitos</a> • 
- <a href="https://github.com/eu-joao/python-with-tkinter#-conte%C3%BAdo-do-reposit%C3%B3rio">Conteúdo do repositório</a> • 
- <a href="https://github.com/eu-joao/python-with-tkinter#-autor">Autor</a>
-</p>
-
 ## 👉 Objetivo
 
 Com o intuito de melhorar as minhas habilidades no python, foi criado este repositório para gerenciar alguns projetos desenvolvidos por mim ao longo do tempo.
@@ -55,7 +47,3 @@ $ pip install -r requeriments.txt
 9           | Simulador de lançamento de dados                | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/Roll%20Dice.gif)  
 10          | Aplicação que reúne atalhos úteis dentro do Windows                | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/PC%20Tools.PNG)  
 11          | Agenda de contatos feita com Tkinter e MySQL               | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/AGENDA.png) 
-
-## 👉 Autor
-
-Feito com ❤️ por João V. V. Santos 👋🏽 Entre em contato!
