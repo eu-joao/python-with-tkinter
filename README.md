@@ -35,10 +35,10 @@ $ pip install -r requeriments.txt
 #ㅤ          | DESCRIÇÃO         | PRÉVIA
 :---------: | :------:          | :--------:
 1           | Descubra o código hex de cores de forma simples e rápida              | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/PyColor.gif)       
-2           | Aplicação que permite fazer download de  vídeos e playlists do youtube além de permitir a conversão para áudio              | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/YT%20Downloader.gif)  
-3           | Obtenha a diferença em dias, meses e anos entre duas datas                | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/Diferen%C3%A7a%20entre%20datas.gif)  
-4           | Calculadora que mostra o IMC, dividindo o peso (em kg) pela altura ao quadrado (em metros).                | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/Calculadora%20de%20IMC.gif)  
-5           | Calculadora simples que faz as 4 operações básicas e mostra a raiz quadrada  de um número              | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/Calculadora.gif)  
+2           | Aplicação que permite fazer download de vídeos, playlists e conversão de vídeos do youtube             | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/YT%20Downloader.gif)  
+3           | Aplicação que mostra a diferença em dias, meses e anos entre duas datas                | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/Diferen%C3%A7a%20entre%20datas.gif)  
+4           | Calculadora de IMC                | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/Calculadora%20de%20IMC.gif)  
+5           | Calculadora simples              | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/Calculadora.gif)  
 6           | Aplicação que organiza arquivos de acordo com sua extensão                | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/Folder%20Organizer.gif)  
 7           | "Clone" da tela de login do [GUJ](https://www.guj.com.br/)                | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/Tela%20de%20Login.gif)  
 8           | Gere senhas com facilidade misturando letras, números e caracteres especiais                | [Prévia](https://github.com/eu-joao/python-with-tkinter/blob/main/GIFS/Gerador%20de%20Senha.gif)  
